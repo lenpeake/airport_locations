@@ -1,0 +1,474 @@
+[
+ {
+   "name": "Albuquerque International Sunport",
+   "iata_code": "ABQ"
+ },
+ {
+   "name": "Joint Base Andrews",
+   "iata_code": "ADW"
+ },
+ {
+   "name": "Ted Stevens Anchorage International Airport",
+   "iata_code": "ANC"
+ },
+ {
+   "name": "Hartsfield Jackson Atlanta International Airport",
+   "iata_code": "ATL"
+ },
+ {
+   "name": "Queen Beatrix International Airport",
+   "iata_code": "AUA"
+ },
+ {
+   "name": "Austin Bergstrom International Airport",
+   "iata_code": "AUS"
+ },
+ {
+   "name": "Bradley International Airport",
+   "iata_code": "BDL"
+ },
+ {
+   "name": "Nashville International Airport",
+   "iata_code": "BNA"
+ },
+ {
+   "name": "Flamingo International Airport",
+   "iata_code": "BON"
+ },
+ {
+   "name": "Logan International Airport",
+   "iata_code": "BOS"
+ },
+ {
+   "name": "Buffalo Niagara International Airport",
+   "iata_code": "BUF"
+ },
+ {
+   "name": "Baltimore/Washington International Thurgood Marshall Airport",
+   "iata_code": "BWI"
+ },
+ {
+   "name": "Philip S. W. Goldson International Airport",
+   "iata_code": "BZE"
+ },
+ {
+   "name": "Maiquetía Simón Bolívar International Airport",
+   "iata_code": "CCS"
+ },
+ {
+   "name": "Cleveland Hopkins International Airport",
+   "iata_code": "CLE"
+ },
+ {
+   "name": "Charlotte Douglas International Airport",
+   "iata_code": "CLT"
+ },
+ {
+   "name": "John Glenn Columbus International Airport",
+   "iata_code": "CMH"
+ },
+ {
+   "name": "Cancún International Airport",
+   "iata_code": "CUN"
+ },
+ {
+   "name": "Hato International Airport",
+   "iata_code": "CUR"
+ },
+ {
+   "name": "Cincinnati Northern Kentucky International Airport",
+   "iata_code": "CVG"
+ },
+ {
+   "name": "Cozumel International Airport",
+   "iata_code": "CZM"
+ },
+ {
+   "name": "Ronald Reagan Washington National Airport",
+   "iata_code": "DCA"
+ },
+ {
+   "name": "Denver International Airport",
+   "iata_code": "DEN"
+ },
+ {
+   "name": "Dallas Fort Worth International Airport",
+   "iata_code": "DFW"
+ },
+ {
+   "name": "General Guadalupe Victoria International Airport",
+   "iata_code": "DGO"
+ },
+ {
+   "name": "Detroit Metropolitan Wayne County Airport",
+   "iata_code": "DTW"
+ },
+ {
+   "name": "Newark Liberty International Airport",
+   "iata_code": "EWR"
+ },
+ {
+   "name": "Martinique Aimé Césaire International Airport",
+   "iata_code": "FDF"
+ },
+ {
+   "name": "Fort Lauderdale Hollywood International Airport",
+   "iata_code": "FLL"
+ },
+ {
+   "name": "Owen Roberts International Airport",
+   "iata_code": "GCM"
+ },
+ {
+   "name": "Guadalajara International Airport",
+   "iata_code": "GDL"
+ },
+ {
+   "name": "La Aurora Airport",
+   "iata_code": "GUA"
+ },
+ {
+   "name": "José Martí International Airport",
+   "iata_code": "HAV"
+ },
+ {
+   "name": "Daniel K Inouye International Airport",
+   "iata_code": "HNL"
+ },
+ {
+   "name": "Washington Dulles International Airport",
+   "iata_code": "IAD"
+ },
+ {
+   "name": "George Bush Intercontinental Houston Airport",
+   "iata_code": "IAH"
+ },
+ {
+   "name": "Indianapolis International Airport",
+   "iata_code": "IND"
+ },
+ {
+   "name": "Jacksonville International Airport",
+   "iata_code": "JAX"
+ },
+ {
+   "name": "John F Kennedy International Airport",
+   "iata_code": "JFK"
+ },
+ {
+   "name": "Norman Manley International Airport",
+   "iata_code": "KIN"
+ },
+ {
+   "name": "Harry Reid International Airport",
+   "iata_code": "LAS"
+ },
+ {
+   "name": "Los Angeles International Airport",
+   "iata_code": "LAX"
+ },
+ {
+   "name": "LaGuardia Airport",
+   "iata_code": "LGA"
+ },
+ {
+   "name": "Guanacaste Airport",
+   "iata_code": "LIR"
+ },
+ {
+   "name": "Casa De Campo International Airport",
+   "iata_code": "LRM"
+ },
+ {
+   "name": "Kansas City International Airport",
+   "iata_code": "MCI"
+ },
+ {
+   "name": "Orlando International Airport",
+   "iata_code": "MCO"
+ },
+ {
+   "name": "Chicago Midway International Airport",
+   "iata_code": "MDW"
+ },
+ {
+   "name": "Memphis International Airport",
+   "iata_code": "MEM"
+ },
+ {
+   "name": "Benito Juárez International Airport",
+   "iata_code": "MEX"
+ },
+ {
+   "name": "Miami International Airport",
+   "iata_code": "MIA"
+ },
+ {
+   "name": "Manuel Crescencio Rejón International Airport",
+   "iata_code": "MID"
+ },
+ {
+   "name": "General Mitchell International Airport",
+   "iata_code": "MKE"
+ },
+ {
+   "name": "Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field",
+   "iata_code": "MSP"
+ },
+ {
+   "name": "Louis Armstrong New Orleans International Airport",
+   "iata_code": "MSY"
+ },
+ {
+   "name": "Monterrey International Airport",
+   "iata_code": "MTY"
+ },
+ {
+   "name": "General Rafael Buelna International Airport",
+   "iata_code": "MZT"
+ },
+ {
+   "name": "Lynden Pindling International Airport",
+   "iata_code": "NAS"
+ },
+ {
+   "name": "General Felipe Ángeles International Airport",
+   "iata_code": "NLU"
+ },
+ {
+   "name": "San Francisco Bay Oakland International Airport",
+   "iata_code": "OAK"
+ },
+ {
+   "name": "Kahului International Airport",
+   "iata_code": "OGG"
+ },
+ {
+   "name": "Will Rogers World Airport",
+   "iata_code": "OKC"
+ },
+ {
+   "name": "Eppley Airfield",
+   "iata_code": "OMA"
+ },
+ {
+   "name": "Ontario International Airport",
+   "iata_code": "ONT"
+ },
+ {
+   "name": "Chicago O'Hare International Airport",
+   "iata_code": "ORD"
+ },
+ {
+   "name": "Norfolk International Airport",
+   "iata_code": "ORF"
+ },
+ {
+   "name": "Toussaint Louverture International Airport",
+   "iata_code": "PAP"
+ },
+ {
+   "name": "Palm Beach International Airport",
+   "iata_code": "PBI"
+ },
+ {
+   "name": "Portland International Airport",
+   "iata_code": "PDX"
+ },
+ {
+   "name": "Philadelphia International Airport",
+   "iata_code": "PHL"
+ },
+ {
+   "name": "Phoenix Sky Harbor International Airport",
+   "iata_code": "PHX"
+ },
+ {
+   "name": "Pittsburgh International Airport",
+   "iata_code": "PIT"
+ },
+ {
+   "name": "Providenciales International Airport",
+   "iata_code": "PLS"
+ },
+ {
+   "name": "Guadeloupe - Maryse Condé International Airport",
+   "iata_code": "PTP"
+ },
+ {
+   "name": "Tocumen International Airport",
+   "iata_code": "PTY"
+ },
+ {
+   "name": "Punta Cana International Airport",
+   "iata_code": "PUJ"
+ },
+ {
+   "name": "Theodore Francis Green State Airport",
+   "iata_code": "PVD"
+ },
+ {
+   "name": "Puerto Vallarta International Airport",
+   "iata_code": "PVR"
+ },
+ {
+   "name": "Portland International Jetport",
+   "iata_code": "PWM"
+ },
+ {
+   "name": "Raleigh Durham International Airport",
+   "iata_code": "RDU"
+ },
+ {
+   "name": "Richmond International Airport",
+   "iata_code": "RIC"
+ },
+ {
+   "name": "Reno Tahoe International Airport",
+   "iata_code": "RNO"
+ },
+ {
+   "name": "Southwest Florida International Airport",
+   "iata_code": "RSW"
+ },
+ {
+   "name": "Monseñor Óscar Arnulfo Romero International Airport",
+   "iata_code": "SAL"
+ },
+ {
+   "name": "San Diego International Airport",
+   "iata_code": "SAN"
+ },
+ {
+   "name": "San Antonio International Airport",
+   "iata_code": "SAT"
+ },
+ {
+   "name": "Savannah Hilton Head International Airport",
+   "iata_code": "SAV"
+ },
+ {
+   "name": "Louisville Muhammad Ali International Airport",
+   "iata_code": "SDF"
+ },
+ {
+   "name": "Las Américas International Airport",
+   "iata_code": "SDQ"
+ },
+ {
+   "name": "Seattle–Tacoma International Airport",
+   "iata_code": "SEA"
+ },
+ {
+   "name": "Orlando Sanford International Airport",
+   "iata_code": "SFB"
+ },
+ {
+   "name": "San Francisco International Airport",
+   "iata_code": "SFO"
+ },
+ {
+   "name": "Norman Y. Mineta San Jose International Airport",
+   "iata_code": "SJC"
+ },
+ {
+   "name": "Los Cabos International Airport",
+   "iata_code": "SJD"
+ },
+ {
+   "name": "Juan Santamaría International Airport",
+   "iata_code": "SJO"
+ },
+ {
+   "name": "Luis Munoz Marin International Airport",
+   "iata_code": "SJU"
+ },
+ {
+   "name": "Salt Lake City International Airport",
+   "iata_code": "SLC"
+ },
+ {
+   "name": "Sacramento International Airport",
+   "iata_code": "SMF"
+ },
+ {
+   "name": "John Wayne Orange County International Airport",
+   "iata_code": "SNA"
+ },
+ {
+   "name": "Sarasota Bradenton International Airport",
+   "iata_code": "SRQ"
+ },
+ {
+   "name": "St. Louis Lambert International Airport",
+   "iata_code": "STL"
+ },
+ {
+   "name": "Princess Juliana International Airport",
+   "iata_code": "SXM"
+ },
+ {
+   "name": "Syracuse Hancock International Airport",
+   "iata_code": "SYR"
+ },
+ {
+   "name": "General Abelardo L. Rodriguez International Airport",
+   "iata_code": "TIJ"
+ },
+ {
+   "name": "Tampa International Airport",
+   "iata_code": "TPA"
+ },
+ {
+   "name": "Tulsa International Airport",
+   "iata_code": "TUL"
+ },
+ {
+   "name": "Hewanorra International Airport",
+   "iata_code": "UVF"
+ },
+ {
+   "name": "Juan Gualberto Gomez International Airport",
+   "iata_code": "VRA"
+ },
+ {
+   "name": "Edmonton International Airport",
+   "iata_code": "YEG"
+ },
+ {
+   "name": "Halifax / Stanfield International Airport",
+   "iata_code": "YHZ"
+ },
+ {
+   "name": "Ottawa Macdonald-Cartier International Airport",
+   "iata_code": "YOW"
+ },
+ {
+   "name": "Quebec Jean Lesage International Airport",
+   "iata_code": "YQB"
+ },
+ {
+   "name": "Montreal / Pierre Elliott Trudeau International Airport",
+   "iata_code": "YUL"
+ },
+ {
+   "name": "Vancouver International Airport",
+   "iata_code": "YVR"
+ },
+ {
+   "name": "Winnipeg / James Armstrong Richardson International Airport",
+   "iata_code": "YWG"
+ },
+ {
+   "name": "Calgary International Airport",
+   "iata_code": "YYC"
+ },
+ {
+   "name": "St. John's International Airport",
+   "iata_code": "YYT"
+ },
+ {
+   "name": "Toronto Lester B. Pearson International Airport",
+   "iata_code": "YYZ"
+ }
+]
